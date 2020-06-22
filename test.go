@@ -1,0 +1,1 @@
+var slice []int = make([]int,5)
